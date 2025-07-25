@@ -7,7 +7,7 @@ description: >-
   Seção de Engenharia Cartográfica do Instituto Militar de Engenharia.
 url: "https://engenharia-cartografica-ime.github.io"  # 👉 NÃO coloque / no final
 baseurl: ""                                          # raiz (deixe vazio porque o repositório segue o padrão org.github.io)
-email: "cartografia@ime.eb.mil.br"                   # 👉 E‑mail de contato (opcional)
+email: "se6@ime.eb.mil.br"                   # 👉 E‑mail de contato (opcional)
 
 # -------------------------------------------------
 # Tema e aparência
